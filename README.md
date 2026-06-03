@@ -8,7 +8,7 @@
 [![Model](https://img.shields.io/badge/Model-FinBERT-2ea44f.svg)](https://huggingface.co/ProsusAI/finbert)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**▶️ Try the live dashboard:**(https://finexplain-llm-gxg8awolizpezg8th9qotf.streamlit.app/)
+**▶️ Try the live dashboard:** https://finexplain-llm-gxg8awolizpezg8th9qotf.streamlit.app/
 
 ---
 
