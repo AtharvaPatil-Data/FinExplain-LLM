@@ -1,0 +1,14 @@
+# FinExplain-LLM — Requirements
+# ─────────────────────────────────────────────────────────────────────────────
+# COLAB (install before running colab_inference.py):
+#   !pip install -q captum datasets scikit-learn scipy
+#   (do NOT upgrade torch/torchvision/transformers — Colab ships working builds)
+#
+# LOCAL / STREAMLIT CLOUD (dashboard):
+#   pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+streamlit>=1.35.0
+plotly>=5.20.0
+pandas>=2.0.0
+numpy>=1.24.0

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+ENV/
+env/
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints
+~/.cache/huggingface/
